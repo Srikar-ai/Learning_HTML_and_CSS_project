@@ -1,0 +1,36 @@
+header{
+  background-color: #00b7ea;
+  text-align:center;
+}
+h1{
+  color:#ffffff;
+  font-size:45px;
+}
+nav{
+  padding-bottom:10px;
+}
+a{
+  font-size:40px;
+}
+body{
+  background-color:#B3B3B3;
+  font-size:130%;
+}
+h2{
+  background-color:#00b7ea;
+}
+section{
+  display:inline-block;
+  width:30%;
+  float:left;
+  padding-right:8px;
+}
+footer{
+  clear:both;
+}
+summary{
+  font-style:normal;
+}
+details{
+  font-style:italic;
+}
